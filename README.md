@@ -187,7 +187,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M4
 # IAPR-4- Module 4 - FoC
 # Ex.No:18
-  ![alt text](image-3.png)
+ 
 # Date : 
 # Aim:
  To develop a C program that converts temperatures between Celsius and Fahrenheit using functions with return values.
